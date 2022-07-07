@@ -1,0 +1,51 @@
+body{
+  overflow-x: hidden;
+}
+div.scrollmenu {
+    display: flex;
+    background-color: gray;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  
+  div.scrollmenu img {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  div.scrollmenu img:hover {
+    background-color: #777;
+  }
+.name{
+    position: relative;
+    left: 12%;
+    /* text-align: center; */
+    font-weight: bold;
+    color:red;
+}
+.bodyPart{
+    position: relative;
+    bottom: 3rem;
+    left: -22rem;
+}
+.target{
+    position: relative;
+    bottom: 3rem;
+    left: -20rem;
+}
+.left{
+  position: relative;
+  right:92%;
+  top:26rem
+
+}
+.right{
+  position: relative;
+  right:9%;
+  top:26rem;
+  z-index: 1;
+
+}

@@ -1,6 +1,7 @@
 body {
   font-family: 'Josefin Sans';
   background-color: #FFFAFB;
+  overflow-x: hidden;
 }
 
 * {
@@ -166,3 +167,4 @@ body {
   
   
 }
+
