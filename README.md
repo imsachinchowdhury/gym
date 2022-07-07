@@ -1,1 +1,1 @@
-https://digital-gym.netlify.app/
+https://digi-gym-exercise.netlify.app/
